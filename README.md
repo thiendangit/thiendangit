@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Tibb              
 - 👀 I'm a mobile developer with passion
 - 💞️ Content creation for spreading what I've learnt from my mistakes
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiendangit&show_icons=true)
